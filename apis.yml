@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://collegescorecard.ed.gov/data/
 common:
+  - type: DomainSecurity
+    url: security/collegescorecard-ed-gov-domain-security.yml
   - type: Website
     url: https://collegescorecard.ed.gov/data/
   - type: PublicAPIsListing
