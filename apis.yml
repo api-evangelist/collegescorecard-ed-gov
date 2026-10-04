@@ -39,7 +39,6 @@ apis:
   - name: CollegeScoreCard.ed.gov
     description: "Data on higher education institutions in the United States"
     humanURL: https://collegescorecard.ed.gov/data/
-    baseURL: https://collegescorecard.ed.gov/data/
     tags:
       - Open Data
     properties:
